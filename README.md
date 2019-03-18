@@ -19,7 +19,7 @@
 python3 , keras , numpy , sklearn , pickle , pandas .</br> Platform used is [colab](https://colab.research.google.com/)
 
 ## Algorithims:
- :one: Kmeans </br> Accuracy obtained is 68%
+ :one: Kmeans </br> Accuracy obtained is 68% </br>
  :two: Neural Networks </br>
  Accuracy obtained is 83.65% But this shows a clear overfitting of the training data</br>
  ## Conclusion:
